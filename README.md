@@ -26,7 +26,7 @@ Ich starte heute mein 120-Tage-Challenge (45 Minuten pro Tag), um mich auf mein 
 
 ### 🔹 Tage 1 bis 30: Die Grundlagen der Logik
 - [x] **Tag 1**: Entwicklungsumgebung einrichten & Erste Variablen (Erledigt! 🎉)
-- [ ] **Tag 2**: Benutzereingaben (`input()`) und Datentypen konvertieren
+- [x] **Tag 2**: Benutzereingaben (`input()`) und Datentypen konvertieren
 - [ ] **Tag 3**: Mathematische Operationen im Business-Kontext
 - [ ] **Tage 4-10**: Bedingungen (`if / elif / else`)
 - [ ] **Tage 11-20**: Schleifen (`for` und `while`)
