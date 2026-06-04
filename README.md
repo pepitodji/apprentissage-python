@@ -1,3 +1,26 @@
+
+markdown# 🚀 Mein 120-Tage Python Challenge - Wirtschaftsinformatik
+
+Ich starte heute mein 120-Tage-Challenge (45 Minuten pro Tag), um mich auf mein Studium an der **FernUni Hagen** vorzubereiten. 
+
+## 📅 Mein Lehrplan
+
+### 🔹 Tage 1 bis 30: Die Grundlagen der Logik
+- [x] **Tag 1**: Entwicklungsumgebung einrichten & Erste Variablen (Erledigt! 🎉)
+- [ ] **Tag 2**: Benutzereingaben (`input()`) und Datentypen konvertieren
+- [ ] **Tag 3**: Mathematische Operationen im Business-Kontext
+- [ ] **Tage 4-10**: Bedingungen (`if / elif / else`)
+- [ ] **Tage 11-20**: Schleifen (`for` und `while`)
+- [ ] **Tage 21-30**: Funktionen schreiben (`def`)
+
+### 🔹 Tage 31 to 60: Datenstrukturen & Dateien
+- [ ] **Tage 31-45**: Listen und Dictionaries (Daten organisieren)
+- [ ] **Tage 46-60**: CSV- und JSON-Dateien lesen und schreiben
+
+
+
+
+
 Dieses Repository dient zur Vorbereitung auf mein Studium der **Wirtschaftsinformatik** an der **FernUni Hagen** (Start: Oktober). 
 
 Hier sammle und dokumentiere ich meine täglichen Programmierübungen, um solide Python-Kenntnisse aufzubauen.
