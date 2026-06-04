@@ -17,7 +17,13 @@ Ich starte heute mein 120-Tage-Challenge (45 Minuten pro Tag), um mich auf mein 
 - [ ] **Tage 31-45**: Listen und Dictionaries (Daten organisieren)
 - [ ] **Tage 46-60**: CSV- und JSON-Dateien lesen und schreiben
 
+### 🔹 Tage 61 to 90: Datenanalyse mit Pandas
+- [ ] **Tage 61-75**: DataFrames erstellen und filtern
+- [ ] **Tage 76-90**: Daten bereinigen und Statistiken berechnen
 
+### 🔹 Tage 91 to 120: Automatisierung & Dashboard
+- [ ] **Tage 91-105**: Web-APIs nutzen (Finanzdaten abrufen)
+- [ ] **Tage 106-120**: Interaktives Web-Dashboard mit **Streamlit** bauen
 
 
 
