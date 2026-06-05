@@ -29,7 +29,8 @@ Ich starte heute mein 120-Tage-Challenge (45 Minuten pro Tag), um mich auf mein 
 - [x] **Tag 2**: Benutzereingaben (`input()`) und Datentypen konvertieren
 - [x] **Tag 3**: Mathematische Operationen im Business-Kontext
 - [x] **Tag 4**: Bedingte Anweisungen (`if / elif / else`)
-- [ ] **Tage 5-10**: Bedingungen (`if / elif / else`)
+- [x] **Tag 5**: Gestapelte Anweisungen (`if / elif / else`)
+- [ ] **Tage 6-10**: Bedingungen (`if / elif / else`)
 - [ ] **Tage 11-20**: Schleifen (`for` und `while`)
 - [ ] **Tage 21-30**: Funktionen schreiben (`def`)
 
